@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+  color: maroon;
+  border-style: solid;
+  border-width: 7px
+}
+#rules {
+  font-weight: bold;
+}
